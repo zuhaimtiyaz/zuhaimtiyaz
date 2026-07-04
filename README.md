@@ -37,6 +37,7 @@ Currently developing the initial prototype using Arduino Uno. The long
 term goal is to implement the complete system on an FPGA with autonomous takeoff and landing on circular runways
 
 
+
 ## 🎯 Goals
 - Build a strong FPGA and Embedded Systems portfolio.
 - Contribute to open source hardware projects.
